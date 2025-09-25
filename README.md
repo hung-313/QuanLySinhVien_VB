@@ -4,10 +4,6 @@
 Đây là chương trình quản lý sinh viên, lập trình bằng Visual Basic kết nối với SQL Server.  
 Chức năng chính: Thêm, Sửa, Xóa sinh viên, quản lý Khoa, Lớp, Môn học.
 
-## 📂 Cấu trúc repo
-- `docs/` : chứa tài liệu Word mô tả đồ án
-- `sql/`  : script SQL tạo cơ sở dữ liệu
-- `vb/`   : code Visual Basic (form, kết nối, CRUD)
 
 ## 🚀 Cách sử dụng
 1. Mở file `sql/create_database.sql` và chạy trong SQL Server Management Studio để tạo CSDL.
