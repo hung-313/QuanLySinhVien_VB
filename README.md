@@ -1,4 +1,4 @@
-# Quản lý Sinh viên (Visual Basic + SQL Server)
+# Quản lý Sinh viên (Visual Basic)
 
 ## 📌 Giới thiệu
 Đây là chương trình quản lý sinh viên, lập trình bằng Visual Basic kết nối với SQL Server.  
